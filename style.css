@@ -75,6 +75,7 @@ header {
 
 .navbar button {
   background: transparent;
+  border: none;
 }
 
 button {
